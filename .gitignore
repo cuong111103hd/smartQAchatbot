@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Docker
+*.log
+
+# Sensitive files
+smartQAchatbot.pem
+
+# VS Code
+.vscode/
+
+test_rag_with_ollama.py
+test.py
+testcopy.py
